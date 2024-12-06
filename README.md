@@ -36,10 +36,4 @@ pip install PyPDF2 Pillow
 
 4. The tool will apply the dark mode effect and show the updated PDF.
 
-## Features
-
-- **Easy drag-and-drop interface** for quickly uploading PDFs.
-- Converts PDF content to a dark background with light text for reduced eye strain.
-- Lightweight and simple to use.
-
 
